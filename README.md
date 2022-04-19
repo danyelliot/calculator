@@ -1,3 +1,3 @@
 # Calculator_app
- Desktop Calculator/n
- ![alt text](https://i.imgur.com/5zAx00n.png)
+ Desktop Calculator
+ ![github-small](https://i.imgur.com/5zAx00n.png)
