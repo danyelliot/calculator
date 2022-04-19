@@ -72,7 +72,7 @@ public class Calculadora extends javax.swing.JFrame {
         boton_answer = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Calculadora DESI");
+        setTitle("Calculadora");
         setBackground(new java.awt.Color(204, 204, 204));
 
         jTextField1.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
