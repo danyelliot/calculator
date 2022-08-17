@@ -506,6 +506,7 @@ public class Calculadora extends javax.swing.JFrame {
             }
         });
     }
+    //Prueba de cambio fecha y hora 04:40
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton boton_ac;
